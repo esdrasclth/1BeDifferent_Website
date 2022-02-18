@@ -18,10 +18,10 @@ Ir en contra de la corriente de los sistemas humanistas y costumbres religiosas,
 
 ## NECESIDADES
 
-· Identidad, valores, determinación, visión y conocer sus propósito, falta de enfoque, vivir de manera superficial, falta de compresión de la grandeza de Jesús.
-· Tomar decisiones diferentes, manera de comportarse diferente y tomar decisiones diferentes, acercando las personas a Dios.
-· Llevar el evangelio y hacer discipulado.
-· Tomar decisiones no populares, dejar la superficialidad, convicciones firmes.
+- Identidad, valores, determinación, visión y conocer sus propósito, falta de enfoque, vivir de manera superficial, falta de compresión de la grandeza de Jesús.
+- Tomar decisiones diferentes, manera de comportarse diferente y tomar decisiones diferentes, acercando las personas a Dios.
+- Llevar el evangelio y hacer discipulado.
+- Tomar decisiones no populares, dejar la superficialidad, convicciones firmes.
 
 
 ## DETALLES TECNICOS
